@@ -43,10 +43,8 @@ By the end of the course, students should be able to:
 
 | Folder / File | Contents | Format |
 |---|---|---|
-| `slides/` | Weekly or topic-based lecture slides | `.pdf`, `.pptx`, `.md` |
-| `notes/` | Detailed lecture notes and expanded lesson write-ups | `.tex`, `.pdf`, `.md` |
-| `problems/` | Exercises, tutorial sheets, and revision questions | `.pdf`, `.tex`, `.md` |
-| `outline/` | Course outline, syllabus, and lesson sequence | `.pdf`, `.md` |
+| `LectureSlides/` | Weekly or topic-based lecture slides | `.pdf`, `.pptx`, `.md` |
+| `Assignments/` | Assignments, Exercises, tutorial sheets, and revision questions | `.pdf`, `.tex`, `.md` |
 | `books/` | Reference textbooks, articles, and reading materials | `.pdf`, `.epub` |
 | `utilities/` | Helper files, scripts, diagram tools, and templates | `.sh`, `.py`, `.cls` |
 | `README.md` | Start-here guide for the repository | `.md` |

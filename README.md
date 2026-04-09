@@ -19,8 +19,8 @@ The course introduces the design, structure, and functions of operating systems,
 | **Course Title** | Operating Systems and Systems Programming |
 | **Institution** | University of Mines and Technology (UMaT) |
 | **Department** | Computer Science & Engineering |
-| **Course Instructor** | Mrs. Ivy Botchway Essandoh (PhD) |
-| **Demonstrator** | Emmanuel Kwesi Tandoh |
+| **Course Instructor** | Mr. Aidoo, Joshua Kweku (PhD) |
+| **Demonstrator** | Mr. Tandoh, Emmanuel Kwesi |
 | **Core Topics** | OS foundations, architecture, scheduling, synchronization, memory management, file systems, system calls, interrupts |
 | **Primary Use of Repository** | Lecture notes, slide decks, structured lesson materials, revision support |
 
